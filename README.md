@@ -9,11 +9,12 @@ Unzip the file "thegarner-airport-egca-coalaston.zip" and "thegarner-airport-egd
 
 # Features
 
-I took a bit of a creative licnece with this airfield and added features that may not be there in real life but makes the airfield feel a bit more "lively". 
+I took a bit of a creative licence with this airfield and added features that may not be there in real life but makes the airfield feel a bit alive but tried to keep it realistic.
 
 * Runways added including number markings (The numbers do not exist in real life but thought it would make it easier to identify) 
 * Multiple GA parking spots
-* Multiple static aircraf
+* Multiple static aircraft
 * Multiple static objects such as buildings, cars, fences and more.
 * 2x Light posts added around main hangar building, 2x Street lamps next to road
-* Windsocks
+* Windsocks 
+
